@@ -1,0 +1,1 @@
+# get_coordinates_image_mouse_click
